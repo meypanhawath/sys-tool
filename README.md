@@ -13,3 +13,4 @@ Run this command:
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/meypanhawath/sys-tool/master/install.sh | sudo bash
+```
